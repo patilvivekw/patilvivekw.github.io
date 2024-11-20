@@ -1,3 +1,3 @@
-# My Resume
+# My Website
 
-To view a live demo, [click here](https://patilvivek28.github.io).
+To view a live demo, [click here](https://patilvivekw.github.io).
